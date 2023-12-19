@@ -27,7 +27,7 @@ Customers can interact with the system to explore and purchase books:
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/wizzseen/Online-Book-store-Management-System.git```
+   https://github.com/wizzseen/Online-Book-store-Management-System.git
 
 **Database Setup:**
 -Create a MySQL database with the name specified in the JDBC_URL variable ((Data Base Name)).
@@ -36,7 +36,7 @@ Customers can interact with the system to explore and purchase books:
 2. **Compile and Run:**
    ```bash
    javac Shop.java
-    java Shop```
+    java Shop
 ## Overview
 
 Upon running the application, users will be prompted to choose between Administrator and Customer functionalities.
