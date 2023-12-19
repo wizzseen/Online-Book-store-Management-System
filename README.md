@@ -1,4 +1,4 @@
-carbon
+
 # Online Book Store Management System
 
 The Online Book Store Management System is a Java application designed to facilitate the management of an online book store. The system provides distinct functionalities for administrators and customers, offering a seamless experience for both user types.
