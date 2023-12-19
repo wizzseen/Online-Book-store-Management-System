@@ -27,7 +27,7 @@ Customers can interact with the system to explore and purchase books:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/book-store.git```
+   https://github.com/wizzseen/Online-Book-store-Management-System.git```
 
 **Database Setup:**
 -Create a MySQL database with the name specified in the JDBC_URL variable ((Data Base Name)).
